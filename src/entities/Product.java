@@ -36,7 +36,6 @@ public class Product {
 	 public String nonStaticUpperCaseName() {
 		 return name.toUpperCase();
 	 }
-
 	
 	@Override
 	public String toString() {
